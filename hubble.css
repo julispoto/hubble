@@ -1,0 +1,60 @@
+.button {
+  border: none;
+  
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: dashed;
+  display: inline-block;
+  font-size: 16px;
+  margin: 1% 30%;
+  transition-duration: 1s;
+  cursor: pointer;
+
+  background-color: black; 
+  color: rgb(212, 243, 9); 
+  border: 4px solid #cfcf20;
+}
+
+.button:hover {
+  background-color: #718408;
+  color: rgb(206, 235, 17);
+}
+
+body {
+    
+        background-image: url('Hubble_ultra_deep_field_high_rez_edit1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: contain;
+        background-position: center;
+        background-color: black;
+        
+      }
+
+      h1 {
+        font-family: monospace;
+        color: rgb(181, 207, 29);
+        position: relative;
+        background-color:black;
+        text-align: center;
+        clear: left;
+      }
+
+      a{
+        margin-left: 10%;
+      }
+
+      
+
+
+
+
+
+
+   
+
+
+
+
+
+
